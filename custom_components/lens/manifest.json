@@ -1,0 +1,14 @@
+{
+  "domain": "lens",
+  "name": "Lens",
+  "codeowners": ["@jumpmanactual"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/Jumpman-Actual-Labs/ha-lens",
+  "integration_type": "service",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/Jumpman-Actual-Labs/ha-lens/issues",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "1.0.0"
+}

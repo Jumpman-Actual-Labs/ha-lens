@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Lens",
+        "description": "Lens registers a read-only LLM API that lets MCP clients see every entity in Home Assistant, including disabled, hidden and not-loaded ones. It cannot control anything.\n\nAfter adding Lens, open the Model Context Protocol Server integration, choose Reconfigure, and select Lens alongside Assist. Then reconnect your MCP client."
+      }
+    },
+    "abort": {
+      "already_configured": "Lens is already set up.",
+      "single_instance_allowed": "Lens is already set up."
+    }
+  }
+}
